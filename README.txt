@@ -1,0 +1,5 @@
+Background
+----------
+
+Customers represent the most important assets of a firm. Customer lifetime value (CLV) allows assessing their current and future value in a customer base. 
+The customer relationship management strategy and marketing resource allocation are based on this metric. Managers therefore need to predict the retention but also the purchase behavior of their customers. For every Marketing team, mission is to improve every human interaction via data science. Usually a firm has a lot of data on touches. Customers send billions of events representing user and customer behaviors (e.g.logging into an app, buying something, visiting a website, etc.) a month via websites, APIs that are validated, normalized and stored in realtime. Here, we will try to predict future purchasing from a history of such customer transactions.
